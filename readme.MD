@@ -1,5 +1,7 @@
 # Plugin for courses and lessons 🚀
 
+Used Wordpress 6.7.1 & php 8.2.10
+
 1. Download ZIP from this repo
 2. Install plugin from backend area manually or extract in plugins DIR manually
 3. Activate plugin **Courses and lessons**
