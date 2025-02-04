@@ -1,7 +1,7 @@
 # Plugin for courses and lessons 🚀
 
 Used Wordpress 6.7.1 & php 8.2.10
-**if you will use before testing fresh version of wordpress don't forget to change the permalink structurt to /post-name**
+**if you will use before testing fresh version of wordpress don't forget to change the permalink structure to /post-name**
 
 1. Download ZIP from this repo
 2. Install plugin from backend area manually or extract in plugins DIR manually
