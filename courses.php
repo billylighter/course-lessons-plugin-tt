@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Courses and lessons
- * Description:       Making 2 CPT and verification by auth, adding gutenberg block for this purposes
+ * Description:       Making 2 CPT and verification by auth, shortcode for display courses with it's lessons
  * Requires at least: 6.6
  * Requires PHP:      7.4
  * Version:           1.0.0
