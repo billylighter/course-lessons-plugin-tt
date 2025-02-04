@@ -1,0 +1,15 @@
+.lessons-meta{
+    display: flex;
+}
+
+.lessons-meta .lessons-meta__item > input[type=checkbox]{
+    margin-top: 0!important;
+}
+
+.lessons-meta .lessons-meta__item > label{
+    margin: 0!important;
+}
+
+.lessons-meta .lessons-meta__item:not(:last-child){
+    margin-right: 24px;
+}
